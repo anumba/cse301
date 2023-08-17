@@ -1,0 +1,15 @@
+body{
+    background-color:whitesmoke;
+    margin: auto;
+    padding-left: 10%;
+    
+    
+}
+button{
+    padding: 01px 10%;
+    border-radius: 1px;
+    border: solid black 1px;
+    color: black;
+    text-align: center;
+    color: blue;
+}
